@@ -1,0 +1,11 @@
+X-Ploiter is an automated Python+Ruby based tool, this tool is designed to exploit one of the awesome vulnerability in web application which could lead to disclosure of sensitive information disclosure i.e. XXE (XML External Entity ) vulnerability.
+Just type the LHOST, RHOST, RPORT and what do you wanna get and how, simply in Yes/No ? And then BOOM!!
+
+Author:  Rajesh Majumdar (@freakym0nk)
+
+Windows:
+	Ruby
+	Python
+
+Usage:
+	./xploiter.py
